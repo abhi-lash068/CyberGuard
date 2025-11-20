@@ -11,7 +11,7 @@ Trained on 822,000+ real URLs (legit + phishing)
 - Suspicious & Phishing URLs shown in RED
 - Works completely offline after first run
 
- ![image alt](Screenshot 2025-11-20 120148.png)
+ 
  
 ### How to Run
 ```bash
@@ -22,7 +22,7 @@ python cyberguard.py
 
 
 
-
+ ![image alt](https://raw.githubusercontent.com/abhi-lash068/CyberGuard/0459be6cccb7564c1114b4d8f294c46e60354e9a/Screenshot%202025-11-20%20120148.png)
 
 
 
