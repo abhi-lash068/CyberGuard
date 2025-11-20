@@ -22,7 +22,8 @@ python cyberguard.py
 
 
 
- ![image alt](https://raw.githubusercontent.com/abhi-lash068/CyberGuard/0459be6cccb7564c1114b4d8f294c46e60354e9a/Screenshot%202025-11-20%20120148.png)
+ 
 
 
+<img width="1258" height="726" alt="Screenshot 2025-11-20 120148" src="https://github.com/user-attachments/assets/26dad936-8c86-4bde-9135-aac646560f45" />
 
