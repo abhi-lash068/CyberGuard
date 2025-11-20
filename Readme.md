@@ -16,7 +16,7 @@ Trained on 822,000+ real URLs (legit + phishing)
 ```bash
 pip install pandas lightgbm tldextract
 python cyberguard.py
-<img width="1258" height="726" alt="Screenshot 2025-11-20 120148" src="https://github.com/user-attachments/assets/69ef713e-3fe3-4fb9-8581-d080a5a0967a" />
+
 
 ![CyberGuard Demo]("Screenshot 2025-11-20 120148.png")
 
