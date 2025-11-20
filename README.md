@@ -18,5 +18,5 @@ pip install pandas lightgbm tldextract
 python cyberguard.py
 
 
-![Screenshot](https://github.com/user-attachments/assets/9c566c85-067e-440c-b3d1-161a9ba3a17f)
+![Screenshot](https://github.com/abhi-lash068/CyberGuard/Screenshot 2025-11-20 120148.png)
 
